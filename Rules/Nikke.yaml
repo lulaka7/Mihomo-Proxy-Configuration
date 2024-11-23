@@ -1,17 +1,17 @@
 payload:
-- +.myqcloud.com
-- +.anticheatexpert.com
-- +.wetest.net
-- +.truekex.com
-- +.sentry.io
-- +.sectigo.com
-- +.intlgame.com
-- +.globalsign.com
-- +.nikke-kr.com
-- 34.168.46.146/32
-- 34.168.159.122/32
-- 34.83.241.108/32
-- 34.145.46.187/32
-- 43.131.51.43/32
+  - +.myqcloud.com
+  - +.anticheatexpert.com
+  - +.wetest.net
+  - +.truekex.com
+  - +.sentry.io
+  - +.sectigo.com
+  - +.intlgame.com
+  - +.globalsign.com
+  - +.nikke-kr.com
+  - 34.168.46.146/32
+  - 34.168.159.122/32
+  - 34.83.241.108/32
+  - 34.145.46.187/32
+  - 43.131.51.43/32
 
 
