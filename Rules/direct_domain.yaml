@@ -1,7 +1,3 @@
 payload:
   - mikanime.tv
   - +.miluxing.com
-  - ap-cn01.emby.bangumi.ca  # Nya Emby服 分流直连地址
-  # 二次元 Emby服 分流地址
-  - media.nijigem.by
-  - +.cdn.bgp.yt
