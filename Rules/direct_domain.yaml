@@ -3,3 +3,4 @@ payload:
   - +.miluxing.com
   - ap-cn01.emby.bangumi.ca  # Nya Emby服 分流直连地址
   - ct.cdn.bgp.yt  # 二次元 Emby服 分流地址
+  - emby.movier.ink  # nya 群友反代
